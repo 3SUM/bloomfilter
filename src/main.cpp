@@ -39,7 +39,7 @@ static uintmax_t stdread(const std::string fname)
     return lines;
 }
 
-static uintmax_t wc(char const *fname)
+static uintmax_t fastread(char const *fname)
 {
     static const auto BUFFER_SIZE = 16 * 1024;
     int fd = open(fname, O_RDONLY);
@@ -67,7 +67,7 @@ static uintmax_t wc(char const *fname)
 
 int main()
 {
-    //printf("Lines: %lu\n", wc("src/5million.csv"));
+    //printf("Lines: %lu\n", fastread("src/5million.csv"));
     printf("Lines: %lu\n", stdread("src/5million.csv"));
     return 0;
 }

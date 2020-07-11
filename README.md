@@ -1,7 +1,7 @@
 <br><br>
 
 <p align="center">
-<a href="https://github.com/LuisMaya"><img width="180" src="./web/img/kitana.png" alt="kitana logo"></a>
+<a href="https://github.com/LuisMaya"><img width="180" src="./logo/kitana.png" alt="kitana logo"></a>
 <br>
 
 </p>
@@ -31,4 +31,6 @@ The source code of kitana can be found [here](./src/).
 
 ## License
 
-&copy; [Luis Maya Aranda](https://github.com/LuisMaya)
+&copy; [Luis Maya Aranda](https://github.com/LuisMaya). All rights reserved.
+
+Licensed under the MIT License.

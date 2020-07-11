@@ -7,5 +7,6 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++14")
 add_executable(
   main
   src/main.cpp
-  src/BloomFilter.h
+  src/bloomfilter.h
+  src/MurmurHash3.cpp
 )

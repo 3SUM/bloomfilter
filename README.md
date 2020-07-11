@@ -1,11 +1,8 @@
 <br><br>
 
 <p align="center">
-<a href="https://github.com/LuisMaya"><img width="200" src="./logo/kitana.png" alt="kitana logo"></a>
-<br>
-
+<a href="https://github.com/LuisMaya"><img width="420" src="./logo/kitana.png" alt="kitana logo"></a>
 </p>
-<br>
 
 <br><br>
 

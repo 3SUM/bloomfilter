@@ -1,7 +1,7 @@
 <br><br>
 
 <p align="center">
-<a href="https://github.com/LuisMaya"><img width="50%" src="./logo/kitana.png" alt="kitana logo"></a>
+<a href="https://github.com/LuisMaya"><img src="./logo/kitana.png" alt="kitana logo"></a>
 <br>
 
 </p>
